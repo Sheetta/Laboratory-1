@@ -1,2 +1,3 @@
 # Laboratory-1
-Demonstartion of laboratory
+Demonstartion of GIT laboratory
+1st commit
